@@ -1,4 +1,5 @@
 Halo pak, salam kenal nama saya Ababil dari Semarang
+hai
 
 Resulusi saya :
 - Membuat Website menggunakan framework Javascript
